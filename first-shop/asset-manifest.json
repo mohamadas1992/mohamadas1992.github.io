@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/first-shop/static/css/main.35cc7078.chunk.css",
+    "main.js": "/first-shop/static/js/main.9ddee7b9.chunk.js",
+    "main.js.map": "/first-shop/static/js/main.9ddee7b9.chunk.js.map",
+    "runtime~main.js": "/first-shop/static/js/runtime~main.448563e3.js",
+    "runtime~main.js.map": "/first-shop/static/js/runtime~main.448563e3.js.map",
+    "static/css/2.31dafeb2.chunk.css": "/first-shop/static/css/2.31dafeb2.chunk.css",
+    "static/js/2.3beb3b8a.chunk.js": "/first-shop/static/js/2.3beb3b8a.chunk.js",
+    "static/js/2.3beb3b8a.chunk.js.map": "/first-shop/static/js/2.3beb3b8a.chunk.js.map",
+    "index.html": "/first-shop/index.html",
+    "precache-manifest.30408742c572acff59cb5cb9109be74d.js": "/first-shop/precache-manifest.30408742c572acff59cb5cb9109be74d.js",
+    "service-worker.js": "/first-shop/service-worker.js",
+    "static/css/2.31dafeb2.chunk.css.map": "/first-shop/static/css/2.31dafeb2.chunk.css.map",
+    "static/css/main.35cc7078.chunk.css.map": "/first-shop/static/css/main.35cc7078.chunk.css.map"
+  }
+}
